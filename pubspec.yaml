@@ -1,0 +1,14 @@
+name: flutter_lista_tareas
+description: Lista de tareas en Flutter con estado local.
+publish_to: "none"
+version: 0.1.0
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
